@@ -6,11 +6,14 @@ import fs from 'fs';
 import { parse as parseCsv } from 'csv-parse/sync';
 import xlsx from 'xlsx';
 import { prisma } from '../db';
+import { resolveUploadDir } from '../uploadConfig';
 
 const r = Router();
 
+const uploadDir = resolveUploadDir();
+
 const upload = multer({
-  dest: path.join(process.cwd(), 'uploads'),
+  dest: uploadDir,
   limits: { fileSize: 20 * 1024 * 1024 }, // 20MB
   fileFilter: (req, file, cb) => {
     const ext = path.extname(file.originalname).toLowerCase();

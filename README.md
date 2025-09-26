@@ -26,6 +26,7 @@ Crie `apps/backend/.env` baseado em `.env.example`.
 
 - Para SQLite (padrão dev): `DATABASE_URL="file:./dev.db"`
 - Para Postgres (Render): ex: `DATABASE_URL="postgresql://user:pass@host:5432/db?schema=public"`
+- Para uploads: `UPLOAD_DIR` (opcional). Em servidores serverless (ex.: Vercel) configure para `"/tmp"` ou utilize um armazenamento externo (S3, etc.).
 
 ## Deploy (Render)
 - O repositório inclui um `render.yaml` com dois serviços: API (Node) e frontend (Static Site). Basta importá-lo no Render para criar ambos automaticamente.
