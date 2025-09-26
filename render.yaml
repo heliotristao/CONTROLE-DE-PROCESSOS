@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: controle-processos-api
+    env: node
+    plan: free
+    autoDeploy: true
+    buildCommand: ./render-backend-build.sh
+    startCommand: npm run start:render --workspace=@cphpm/backend
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: PORT
+        value: "10000"
+      - key: ORIGIN
+        sync: false
+  - type: static_site
+    name: controle-processos-frontend
+    buildCommand: npm ci --include=dev && npm run build --workspace=@cphpm/frontend
+    publishPath: apps/frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        sync: false

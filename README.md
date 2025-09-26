@@ -28,10 +28,9 @@ Crie `apps/backend/.env` baseado em `.env.example`.
 - Para Postgres (Render): ex: `DATABASE_URL="postgresql://user:pass@host:5432/db?schema=public"`
 
 ## Deploy (Render)
-- Crie um serviço Web apontando para este repo.
-- `Build Command`: `npm ci && npm run build --workspace=@cphpm/backend`
-- `Start Command`: `npm run start --workspace=@cphpm/backend`
-- Configure `DATABASE_URL` (Render Postgres) e `PORT` (ex.: 10000).
+- O repositório inclui um `render.yaml` com dois serviços: API (Node) e frontend (Static Site). Basta importá-lo no Render para criar ambos automaticamente.
+- A API usa o script `render-backend-build.sh` como build command e `npm run start:render --workspace=@cphpm/backend` como start command, que aplica migrations com `prisma migrate deploy` antes de subir o servidor.
+- Configure as variáveis `DATABASE_URL`, `PORT` (ex.: 10000) e `ORIGIN` no serviço da API, além de `VITE_API_URL` no frontend apontando para a URL pública da API.
 
 ## Importar/Exportar/Backup
 - **Importar:** `POST /api/import` (CSV/XLSX — simulação e confirmação)

@@ -12,8 +12,6 @@
     "strict": true
   },
   "include": [
-    "src",
-    "prisma",
-    "scripts"
+    "src"
   ]
 }
