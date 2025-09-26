@@ -5,8 +5,8 @@ import path from 'path';
 import fs from 'fs';
 import { parse as parseCsv } from 'csv-parse/sync';
 import xlsx from 'xlsx';
-import { prisma } from '../db';
-import { resolveUploadDir } from '../uploadConfig';
+import { prisma } from '../db.js';
+import { resolveUploadDir } from '../uploadConfig.js';
 
 const r = Router();
 
