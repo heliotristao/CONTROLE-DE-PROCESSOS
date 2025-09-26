@@ -1,12 +1,12 @@
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
-import { prisma } from './db';
-import processesRouter from './routes/processes';
-import catalogsRouter from './routes/catalogs';
-import importRouter from './routes/importer';
-import exportRouter from './routes/exporter';
-import { resolveUploadDir } from './uploadConfig';
+import { prisma } from './db.js';
+import processesRouter from './routes/processes.js';
+import catalogsRouter from './routes/catalogs.js';
+import importRouter from './routes/importer.js';
+import exportRouter from './routes/exporter.js';
+import { resolveUploadDir } from './uploadConfig.js';
 
 const app = express();
 app.use(express.json());
