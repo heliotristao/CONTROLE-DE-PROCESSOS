@@ -1,0 +1,710 @@
+{
+  "Processos HPM.xlsx::Processos::Unnamed: 2": [
+    "ARP",
+    "Contratação",
+    "DISPENSA LICITAÇÃO",
+    "Licitação",
+    "licitação",
+    "SRP"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 4": [
+    "ALMOXARIFADO",
+    "CME",
+    "DENF",
+    "FARMACIA",
+    "FARMÁCIA",
+    "LABORATÓRIO",
+    "Setor"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 5": [
+    "(",
+    "1° TEN QOFB PMES \nMilena Siqueira Maia",
+    "1º TENENTE QOFB PM\n Ellis Angela Reis Pinto",
+    "ALEIR MOREIRA GOMES - ARTIFICE SERVICAL",
+    "ALEIR MOREIRA GOMES - ARTIFICE SERVICAL P.07",
+    "Assuério Júnior Moreira da Silva – 1º Ten. QOFB-PM",
+    "Cap Patricia Antonieta Vieira",
+    "Cap QOE PM Thayne Alexandre de Carvalho",
+    "CAP QOEPM Guilherme Mateus Carvalho dos Santos",
+    "Cap QOEPM Jamile Mendes dos Reis",
+    "CAP QOFBPM RAFAELA",
+    "Caroline Gastaldi Guerrieri Trés – Cap. QOFB-PM",
+    "Fábio Ferreira Rodrigues – Cap. QOASPM RR",
+    "Gustavo Mendes Paterlini – 1º Ten. QOFB-PM",
+    "liliane de oliveira faria 2º TENENTE QOAS PM",
+    "Responsável",
+    "Thaís Schmidt Ferreira – 1º Ten. QOFB-PM",
+    "Walter Moraes Cruz – Cap. QOASPM RR"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 6": [
+    "2023-12-04 00:00:00",
+    "2023-12-20 00:00:00",
+    "2024-03-16 00:00:00",
+    "2024-06-14 00:00:00",
+    "2024-07-03 00:00:00",
+    "2025-02-07 00:00:00",
+    "2025-02-17 00:00:00",
+    "2025-02-19 00:00:00",
+    "2025-04-04 00:00:00",
+    "2025-04-10 00:00:00",
+    "2025-06-06 00:00:00",
+    "2025-06-18 00:00:00",
+    "2025-06-23 00:00:00",
+    "2025-07-02 00:00:00",
+    "2025-07-03 00:00:00",
+    "2025-07-09 00:00:00",
+    "2025-07-17 00:00:00",
+    "2025-07-21 00:00:00",
+    "2025-08-04 00:00:00",
+    "2025-08-05 00:00:00",
+    "2025-08-07 00:00:00",
+    "2025-08-11 00:00:00",
+    "2025-08-13 00:00:00",
+    "2025-08-14 00:00:00",
+    "2025-08-15 00:00:00",
+    "2025-08-16 00:00:00",
+    "2025-08-26 00:00:00",
+    "2025-08-27 00:00:00",
+    "2025-08-29 00:00:00",
+    "Data"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 7": [
+    "DFD",
+    "OK",
+    "ok"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 8": [
+    "ETP",
+    "OK",
+    "ok"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 9": [
+    "OK",
+    "TR"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 10": [
+    "OK",
+    "Pesquisa \nde Preço"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 11": [
+    "OK",
+    "Requisitante"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 12": [
+    "Finanças",
+    "OK"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 13": [
+    "CPL",
+    "OK"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 14": [
+    "Licitação",
+    "OK"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 15": [
+    "0",
+    "0.125",
+    "0.25",
+    "0.2857142857",
+    "0.4285714286",
+    "0.5",
+    "0.875",
+    "Progresso (%)"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 16": [
+    "Barra de Progresso",
+    "███████░",
+    "████░░░░",
+    "███░░░░",
+    "██░░░░░",
+    "██░░░░░░",
+    "█░░░░░░░",
+    "░░░░░░░░"
+  ],
+  "Processos HPM.xlsx::Processos::Unnamed: 17": [
+    "AGUARDANDO ADESÃO",
+    "EM EXECUÇÃO\nÚLTIMA MOVIMENTAÇÃO - 29/08/2025",
+    "EM EXECUÇÃO \nULTIMA MOVIMENTAÇÃO 18/09/2025",
+    "EM EXECUÇÃO - NOTA DE LIQUIDAÇÃO\nULTIMA MOVIMENTAÇÃO - 11/09/2025",
+    "Encerrado",
+    "ENTREGA REALIZADA COM ATRASO",
+    "ENTREGUE- NOTA PATRIMONIAL",
+    "ENTREGUE/Encerrado",
+    "NOTA DE LIQUIDAÇÃO.",
+    "OBS",
+    "ORDEM BANCARIA",
+    "ORDEM BANCÁRIA",
+    "ORDEM FORNECIMENTO",
+    "PR",
+    "RECISÃO CONTRATO AMIGÁVEL",
+    "Todos os lotes resultaram DESERTOS e/ou FRACASSADOS.",
+    "ÚLTIMA ATUALIZÇÃO EM 11/09 - SUGERINDO A ADESÃO ATA"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 2": [
+    "ARP",
+    "Contratação"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 4": [
+    "ALMOXARIFADO",
+    "FARMÁCIA",
+    "LABORATÓRIO",
+    "Setor"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 5": [
+    "1° TEN QOFB PMES \nMilena Siqueira Maia",
+    "1º TENENTE QOFB PM\n Ellis Angela Reis Pinto",
+    "2º TENENTE QOAS PM\nLiliane de Oliveira Faria",
+    "ALEIR MOREIRA GOMES \n ARTIFICE SERVICAL",
+    "CAP QOFBPM RAFAELA",
+    "Responsável"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 6": [
+    "04/08/",
+    "2023-12-04 00:00:00",
+    "2023-12-20 00:00:00",
+    "2024-06-14 00:00:00",
+    "2024-07-03 00:00:00",
+    "2025-02-17 00:00:00",
+    "2025-02-19 00:00:00",
+    "2025-04-04 00:00:00",
+    "2025-04-10 00:00:00",
+    "2025-06-06 00:00:00",
+    "2025-06-18 00:00:00",
+    "2025-06-23 00:00:00",
+    "2025-07-02 00:00:00",
+    "2025-07-03 00:00:00",
+    "2025-07-09 00:00:00",
+    "2025-07-17 00:00:00",
+    "2025-07-21 00:00:00",
+    "2025-08-05 00:00:00",
+    "2025-08-07 00:00:00",
+    "2025-08-11 00:00:00",
+    "2025-08-13 00:00:00",
+    "2025-08-15 00:00:00",
+    "2025-08-26 00:00:00",
+    "Data"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 7": [
+    "DFD",
+    "OK"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 8": [
+    "ETP",
+    "OK"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 9": [
+    "OK",
+    "TR"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 10": [
+    "OK",
+    "Pesquisa \nde Preço"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 11": [
+    "Requisitante"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 12": [
+    "Finanças",
+    "OK"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 13": [
+    "CPL",
+    "OK"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 14": [
+    "Licitação",
+    "OK"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 15": [
+    "0",
+    "0.125",
+    "0.25",
+    "0.2857142857",
+    "0.5",
+    "Progresso (%)"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 16": [
+    "Barra de Progresso",
+    "████░░░░",
+    "██░░░░░░",
+    "█░░░░░░░",
+    "░░░░░░░░"
+  ],
+  "Processos HPM.xlsx::ARP::Unnamed: 17": [
+    "AGUARDANDO ADESÃO",
+    "ENCERRADO",
+    "Encerrado",
+    "ENTREGA REALIZADA COM ATRASO",
+    "ENTREGUE- NOTA PATRIMONIAL",
+    "ENTREGUE/Encerrado",
+    "NOTA DE LIQUIDAÇÃO.",
+    "OBS",
+    "ORDEM BANCARIA",
+    "ORDEM BANCÁRIA",
+    "ORDEM FORNECIMENTO",
+    "PR",
+    "RECISÃO CONTRATO AMIGÁVEL"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 2": [
+    "ARP",
+    "COMPRA DIRETA",
+    "Contratação",
+    "CONTRATO",
+    "DISPENSA LICITAÇÃO",
+    "Licitação",
+    "PREGÃO",
+    "SRP"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 4": [
+    "ALMOXARIFADO",
+    "CFB",
+    "CME",
+    "COCIH",
+    "COMISSAO DE PPS",
+    "Comissão",
+    "Comissão de Ética Médica DS",
+    "CONTRATOS E CONVENIOS",
+    "DCPS",
+    "DENF",
+    "DIRETORIA DE SAÚDE",
+    "FARMACIA",
+    "FARMÁCIA",
+    "Gestor contrato",
+    "LABORATÓRIO",
+    "Lesões de Pele",
+    "MANUTENÇÃO",
+    "ODONTO",
+    "Odontologia",
+    "PATRIMONIO",
+    "PATRIMÔNIO",
+    "POLICLINICA",
+    "SAFIE",
+    "Setor",
+    "SGPS - DFB",
+    "SINFO",
+    "SSC DE APOIO",
+    "SSC EDUCACAO CONTIN CO",
+    "Sub seçaõ Apoio Clínico",
+    "Transporte"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 5": [
+    "1° TEN QOFB PMES \nMilena Siqueira Maia",
+    "1º Ten. QOFB-PM\nAssuério Júnior Moreira da Silva",
+    "1º Ten. QOFB-PM\nGustavo Mendes Paterlini",
+    "1º Ten. QOFB-PM\nThaís Schmidt Ferreira",
+    "1º TENENTE QOD PM\nJéssica Costa Reis de Paula",
+    "1º TENENTE QOFB PM \nEllis Angela Reis Pinto",
+    "2º TENENTE QOAS PM\nliliane de oliveira faria",
+    "Adriano Franca Russo Mendonça",
+    "ALEIR MOREIRA GOMES",
+    "ALEXANDRA DA SILVA B. RODRIGUEZ\nTENENTE CORONEL QOD PM",
+    "AMADEUS DE JESUS SANTOS 1º TENENTE QOE PM",
+    "ANDRÉ LUIZ PELLACANI FRANÇA CAPITAO QOM PM",
+    "BÁRBARA ALMEIDA CAMPOS 1º TENENTE QOE PM",
+    "Cap Patricia Antonieta Vieira",
+    "CAP QOAS\n MARIA APARECIDA FERREIRA",
+    "Cap QOEPM\nJamile Mendes dos Reis",
+    "CAP QOFBPM RAFAELA",
+    "CAP QOM \nBRUNELLA MARIA PAVAN",
+    "CARLOS MAGNO DE OLIVEIRA SILVA TENENTE CORONEL QOC PM",
+    "CAROLINA DE ASSIS GAIGHER MARTINS CAPITAO QOM PM",
+    "CORONEL QOD PM\nMARIELISE DE SOUZA BASTOS",
+    "DVANIA DE SOUZA AGUIAR LIBARDI SUBTENENTE QPMP-S PM",
+    "ELIANA LOPES DA ASSUNCAO RIBEIRO SUBTENENTE QPMP-S PM",
+    "HELIOMAR DALAPICOLA\n2º TENENTE QOAS",
+    "HÉLIO MARTINELLI TRISTÃO DE OLIVEIRA MAJOR QOC PM",
+    "IARA ALINE DA SILVA CABO QPMP-C PM",
+    "ISIS BEATRIZ MAGALHAES GAUNA 2º SARGENTO QPMP-C PM",
+    "JANAINA BARBOSA DE FREITAS 2º TENENTE QOAS PM",
+    "JESSICA ALEXANDRA MAJEVSKI ENDLICH 1º TENENTE QOE PM",
+    "JOSIEL ELISANDRO WERLE CAPITAO QOE PM",
+    "JULIANA JADYVISKY DOS SANTOS 1º TENENTE QOD PM",
+    "LEONARDO RUDIO AFFONSO CHRISTO 3º SARGENTO QPMP-C PM",
+    "LORENA SOBRINHA ERLACHER CABO QPMP-C PM",
+    "OTAVIO COELHO BICALHO 3º SARGENTO QPMP-C PM",
+    "PATRICIA ANTONIETA VIEIRA CAPITAO QOE PM",
+    "PAULO CESAR CARVALHO BARBOSA VOLUNTARIO MILITAR",
+    "Responsável",
+    "RODRIGO FRAGA JUNQUEIRA SUBTENENTE QPMP-C PM",
+    "THAIZA GIOVANA VERNECK DE OLIVEIRA CAPITAO QOFB PM",
+    "YURI NEVES ARANTES PAULINO 1º TENENTE QOE PM"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 7": [
+    "DFD",
+    "OK",
+    "ok",
+    "X",
+    "x"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 8": [
+    "ETP",
+    "OK",
+    "X",
+    "x"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 9": [
+    "OK",
+    "TR",
+    "x",
+    "X"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 10": [
+    "OK",
+    "ok",
+    "Pesquisa \nde Preço",
+    "x",
+    "X"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 11": [
+    "OK",
+    "ok",
+    "Requisitante",
+    "x",
+    "X"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 12": [
+    "2025-09-19 00:00:00",
+    "Finanças",
+    "OK",
+    "ok",
+    "X",
+    "x"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 13": [
+    "CPL",
+    "OK",
+    "x",
+    "X"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 14": [
+    "Licitação",
+    "OK",
+    "x"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 15": [
+    "0",
+    "0.125",
+    "0.25",
+    "0.375",
+    "0.4285714286",
+    "0.5",
+    "0.625",
+    "0.75",
+    "0.875",
+    "1",
+    "Progresso (%)"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 16": [
+    "Barra de Progresso",
+    "████████",
+    "███████░",
+    "██████░░",
+    "█████░░░",
+    "████░░░░",
+    "███░░░░",
+    "███░░░░░",
+    "██░░░░░░",
+    "█░░░░░░░",
+    "░░░░░░░",
+    "░░░░░░░░"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 17": [
+    "Ecerrado",
+    "OK",
+    "ok"
+  ],
+  "Processos HPM.xlsx::2025::Unnamed: 18": [
+    "Agente de Contratação",
+    "AGUARDADO PUBLICAÇÃO",
+    "AGUARDANDO ADESÃO",
+    "AGUARDANDO PUBLICAÇÃO DA ARP",
+    "ARQUIVADO",
+    "CPL",
+    "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS, CNPJ: 34.028.316/0012-66, referente à despesa com serviços de postagem para DSPMES – Contrato nº 9912415944",
+    "ENCERRADO",
+    "Encerrado",
+    "ENTREGA REALIZADA COM ATRASO",
+    "ENTREGUE- NOTA PATRIMONIAL",
+    "NOTA DE LIGUIDAÇÃO",
+    "NOTA DE LIQUIDAÇÃO",
+    "NOTA DE LIQUIDAÇÃO.",
+    "OBS",
+    "ORDEM BANCARIA",
+    "ORDEM BANCÁRIA",
+    "ORDEM FORNECIMENTO",
+    "PR",
+    "RECISÃO CONTRATO AMIGÁVEL",
+    "Todos os lotes resultaram DESERTOS e/ou FRACASSADOS."
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 2": [
+    "ARP",
+    "Contratação",
+    "dispensa de licitação",
+    "licitação"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 4": [
+    "ALMOXARIFADO",
+    "DENF",
+    "FARMACIA",
+    "LABORATÓRIO",
+    "Odontologia",
+    "Setor"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 5": [
+    "ALEIR MOREIRA GOMES \nARTIFICE SERVICAL",
+    "Cap QOE PM \nThayne Alexandre de Carvalho",
+    "CAP QOEPM \nGuilherme Mateus Carvalho dos Santos",
+    "CAP QOFBPM\n RAFAELA",
+    "CORONEL QOD PM\nMARIELISE DE SOUZA BASTOS",
+    "RAPHAELA NICCHIO DA SILVA",
+    "Responsável",
+    "TENENTE CORONEL QOD PM\nALEXANDRA DA SILVA BRINGEL RODRIGUEZ"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 6": [
+    "2024-03-16 00:00:00",
+    "2024-06-14 00:00:00",
+    "2024-07-03 00:00:00",
+    "2024-08-14 00:00:00",
+    "2024-10-07 00:00:00",
+    "2024-10-31 00:00:00",
+    "2024-11-25 00:00:00",
+    "2024-11-26 00:00:00",
+    "2024-12-12 00:00:00",
+    "2025-02-03 00:00:00",
+    "Data"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 7": [
+    "DFD",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 8": [
+    "ETP",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 9": [
+    "OK",
+    "TR",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 10": [
+    "Pesquisa \nde Preço",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 11": [
+    "Requisitante",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 12": [
+    "Finanças",
+    "OK",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 13": [
+    "CPL",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 14": [
+    "Licitação",
+    "x"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 15": [
+    "#REF!",
+    "0",
+    "0.125",
+    "0.25",
+    "0.375",
+    "0.5",
+    "0.625",
+    "0.875",
+    "Progresso (%)"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 16": [
+    "Barra de Progresso",
+    "███████░",
+    "█████░░░",
+    "████░░░░",
+    "███░░░░░",
+    "██░░░░░░",
+    "█░░░░░░░",
+    "░░░░░░░",
+    "░░░░░░░░"
+  ],
+  "Processos HPM.xlsx::2024::Unnamed: 17": [
+    "Encerrado",
+    "NOTA DE LIQUIDAÇÃO",
+    "OBS",
+    "ordem de pagamento"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 1": [
+    "2020-B0384",
+    "2021-V0SFL",
+    "2022-FJDP2",
+    "2022-R0L23",
+    "2023-0R90T",
+    "2023-8KM4P",
+    "2023-CB0JP",
+    "2023-HNS3V",
+    "2023-HX80Z",
+    "2023-L3PGW",
+    "2023-S5F3K",
+    "2023-XNF61",
+    "2023-Z2CR4",
+    "2023-ZL93X",
+    "2023-ZTL7N",
+    "N° do Processo"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 2": [
+    "ARP",
+    "Contratação",
+    "SRP"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 3": [
+    "AQUISIÇÃO DE FRIGOBAR- PARTICIPAÇÃO PESQUISA DA PME",
+    "AQUISIÇÃO DE LIMPA COTATOS E LIMPA TELA",
+    "AQUISIÇÃO DE LÂMPADAS E REFLETORES Encerrado",
+    "AQUISIÇÃO DE MATERIAIS DE COPA E COZINHA- PARTICIPAÇÃO - SECRETARIA DE ESTADO DO GOVERNO Encerrado",
+    "AQUISIÇÃO DE PAPEL HIGIÊNICO",
+    "AQUISIÇÃO DE PAPEL TOALHA INTERFOLHADO",
+    "CI - TR N° 004 - SRP - REAGENTES PARA EXAMES BIOQUÍMICOS COM LOCAÇÃO DE EQUIPAMENTO",
+    "CI-TR 016/22 - SRP - TESTE PARA DIAGNÓSTICO DE SÓDIO, POTÁSSIO E CÁLCIO IONIZÁVEL, COM LOCAÇÃO DE EQUIPAMENTO",
+    "CI-TR nº 026/2022 - SRP - REAGENTES PARA EXAME HEMATOLÓGICO, COM LOCAÇÃO DE EQUIPAMENTO",
+    "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE DEDETIZAÇÃO, DESCUPINIZAÇÃO\nDESINSETIZAÇÃO, DESRATIZAÇÃO E CONTROLE DE OUTROS VETORES",
+    "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE ASSESSORIA E MONITORAMENTO ATRAVÉS DE DOSIMETRÍA PESSOAL",
+    "CONTRATAÇÃO DE PROVEDOR DE ENSAIO DE PROFICIÊNCIA DE PROGRAMA DE CONTROLE DE QUALIDADE PARA LABORATÓRIO CLINICO",
+    "Encerrado",
+    "MANUTENÇÃO PREVENTIVA DA CAPELA DE FLUXO LAMINAR",
+    "MATERIAIS DE CONSUMO EM DESUSO PARA BAIXA",
+    "Objeto",
+    "SRP - REAGENTES PARA EXAME HEMATOLÓGICO, COM LOCAÇÃO DE EQUIPAMENTO",
+    "SRP - REAGENTES PARA EXAMES BIOQUÍMICOS COM LOCAÇÃO DE EQUIPAMENTO",
+    "SRP TESTE PARA DIAGNÓSTICO DE SÓDIO, POTÁSSIO E CÁLCIO IONIZÁVEL, COM LOCAÇÃO DE EQUIPAMENTO"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 4": [
+    "ALMOXARIFADO",
+    "LABORATÓRIO",
+    "Odontologia",
+    "Setor"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 5": [
+    "1º Ten. QOFB-PM\nAssuério Júnior Moreira da Silva",
+    "1º Ten. QOFB-PM\nThaís Schmidt Ferreira",
+    "ALEIR MOREIRA GOMES \n ARTIFICE SERVICAL",
+    "ALEIR MOREIRA GOMES \nARTIFICE SERVICAL P.07",
+    "Cap. QOASPM RR\nFábio Ferreira Rodrigues",
+    "Cap. QOASPM RR\nWalter Moraes Cruz",
+    "Cap. QOFB-PM\nCaroline Gastaldi Guerrieri Trés",
+    "Responsável"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 6": [
+    "2025-02-07 00:00:00",
+    "2025-02-17 00:00:00",
+    "2025-02-19 00:00:00",
+    "2025-04-10 00:00:00",
+    "2025-06-06 00:00:00",
+    "2025-06-18 00:00:00",
+    "2025-06-23 00:00:00",
+    "2025-07-03 00:00:00",
+    "2025-07-09 00:00:00",
+    "2025-07-17 00:00:00",
+    "2025-08-05 00:00:00",
+    "2025-08-07 00:00:00",
+    "2025-08-13 00:00:00",
+    "2025-08-26 00:00:00",
+    "Data"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 7": [
+    "DFD"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 8": [
+    "ETP"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 9": [
+    "TR"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 10": [
+    "Pesquisa \nde Preço"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 11": [
+    "Requisitante"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 12": [
+    "Finanças"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 13": [
+    "CPL"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 14": [
+    "Licitação"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 15": [
+    "0",
+    "Progresso (%)"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 16": [
+    "Barra de Progresso",
+    "░░░░░░░░"
+  ],
+  "Processos HPM.xlsx::2020-23::Unnamed: 17": [
+    "Nota de Liguidação",
+    "OBS"
+  ],
+  "Processos HPM.xlsx::Encerrados::Unnamed: 1": [
+    "2025-7H4FJ",
+    "PROCESSO"
+  ],
+  "Processos HPM.xlsx::Encerrados::Unnamed: 2": [
+    "OBJETO",
+    "TU - ARP 0066/2024 – SESA/UIJM – CLIP HEMOSTATICO EM TITANIO M/G - HPF SURGICAL"
+  ],
+  "Processos HPM.xlsx::Encerrados::Unnamed: 3": [
+    "2025-08-15 00:00:00",
+    "DATA ENCERRAMENTO"
+  ],
+  "base_de_processos.xlsx::processos::Objeto": [
+    "Aquisição de 50 novos computadores",
+    "Contratação de serviço de limpeza predial",
+    "Renovação do contrato de software de gestão"
+  ],
+  "base_de_processos.xlsx::processos::Setor Demandante": [
+    "DCHPM",
+    "POLICLÍNICA",
+    "SAÚDE MENTAL"
+  ],
+  "base_de_processos.xlsx::processos::Responsável Atual": [
+    "CAP JÉSSICA",
+    "CAP LUPPI",
+    "MAJ TRISTÃO"
+  ],
+  "base_de_processos.xlsx::processos::Data de Instauração": [
+    "2025-08-20",
+    "2025-09-18",
+    "2025-09-22"
+  ],
+  "base_de_processos.xlsx::processos::Fase Atual": [
+    "Análise da Pesquisa de Preços",
+    "Demanda Recebida",
+    "Elaboração do TR"
+  ],
+  "base_de_processos.xlsx::processos::Prazo Final": [
+    "2025-09-21",
+    "2025-09-24",
+    "2025-10-10"
+  ],
+  "base_de_processos.xlsx::processos::Status Prazo": [
+    "No Prazo",
+    "Vencido"
+  ],
+  "base_de_processos.xlsx::Dashboard::Total de Processos": [
+    "3"
+  ],
+  "base_de_processos.xlsx::Dashboard::Processos Vencidos": [
+    "2"
+  ],
+  "base_de_processos.xlsx::Dashboard::Processos em Atenção": [
+    "0"
+  ],
+  "base_de_processos.xlsx::Dashboard::Processos No Prazo": [
+    "1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "cp-hpm",
+  "private": true,
+  "version": "2.3.0-import-backup",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "echo \"use workspace scripts\"",
+    "start": "echo \"use workspace scripts\""
+  }
+}
